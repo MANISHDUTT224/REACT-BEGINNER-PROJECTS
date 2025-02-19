@@ -1,5 +1,5 @@
 import  { useState,useRef } from 'react'
-import './Todostyle.css';
+import './styles/style.css';
 const Todo = () => {
     const[Todo,setTodo]=useState([]);
     const[input,setinput]=useState("");
