@@ -25,8 +25,9 @@ Welcome to the **React Projects Collection**! This repository contains multiple 
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MANISHDUTT224/REACT-BEGINNER-PROJECTS
 ```
-```bash
-cd your-repo-name
+
+```
+cd REACT-BEGINNER-PROJECTS
 ```
