@@ -27,7 +27,4 @@ Welcome to the **React Projects Collection**! This repository contains multiple 
    ```bash
    git clone https://github.com/MANISHDUTT224/REACT-BEGINNER-PROJECTS
 ```
-
-```
 cd REACT-BEGINNER-PROJECTS
-```
