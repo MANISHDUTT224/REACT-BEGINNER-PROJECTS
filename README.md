@@ -55,12 +55,12 @@ npm run dev
 
 ## 💡 Contributing
 Want to improve this repository? Contributions are welcome!
-
-Fork the repository
-Create a new branch (git checkout -b feature-branch)
-Make your changes and commit (git commit -m "Added new feature")
-Push to your fork (git push origin feature-branch)
-Open a Pull Request 🎉
+<br>
+Fork the repository<br>
+Create a new branch (git checkout -b feature-branch)<br>
+Make your changes and commit (git commit -m "Added new feature")<br>
+Push to your fork (git push origin feature-branch)<br>
+Open a Pull Request 🎉<br>
 
 ## 📜 License
 This project is licensed under the MIT License.
