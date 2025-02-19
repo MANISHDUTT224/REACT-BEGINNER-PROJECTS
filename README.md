@@ -41,17 +41,17 @@ npm install
 npm run dev
 ```
 ## 🛠 Technologies Used
-**React.js** – Frontend UI development
-**Vite** – Fast development environment
-**JavaScript (ES6+)** – Core programming language
-**CSS & TailwindCSS** – Styling and layout
-**React Hooks** – State and effect management
+**React.js** – Frontend UI development<br>
+**Vite** – Fast development environment<br>
+**JavaScript (ES6+)** – Core programming language<br>
+**CSS & TailwindCSS** – Styling and layout<br>
+**React Hooks** – State and effect management<br>
 
 ## 🎯 Features
-✔️ Multiple React mini-projects in one place
-✔️ Covers fundamental and advanced React concepts
-✔️ Beginner-friendly and easy to understand
-✔️ Modular and reusable components
+✔️ Multiple React mini-projects in one place<br>
+✔️ Covers fundamental and advanced React concepts<br>
+✔️ Beginner-friendly and easy to understand<br>
+✔️ Modular and reusable components<br>
 
 ## 💡 Contributing
 Want to improve this repository? Contributions are welcome!
