@@ -1,9 +1,10 @@
 
-import Todo from "./Todo";
+import Testimonial from "./Testimonial";
+
 const App = () => {
   return (
     <>
-        <Todo/>
+       <Testimonial/>
     </>
   );
 }
